@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{2EE0EE14-52BB-3D7F-C423-9017B183E20A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TestInput.cs">
+    <Files>
+      <File FileName="Assets/ColorChange.cs" Line="12" Column="1" />
+      <File FileName="Assets/SliderChange.cs" Line="12" Column="32" />
+      <File FileName="Assets/ChangeTest.cs" Line="23" Column="10" />
+      <File FileName="Assets/TestInput.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Button_Event" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ddc9ba36-650d-4be6-b517-d6ded71a77f7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
