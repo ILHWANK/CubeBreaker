@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{8F2085B1-F0EE-6E34-ADEF-18ED839D2449}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnGenerator.cs">
     <Files>
-      <File FileName="Assets/BallShooter.cs" Line="96" Column="74" />
-      <File FileName="Assets/ShooterRotator.cs" Line="58" Column="66" />
-      <File FileName="Assets/CamFollow.cs" Line="18" Column="57" />
-      <File FileName="Assets/GameManager.cs" Line="34" Column="9" />
-      <File FileName="Assets/Scripts/Ball.cs" Line="55" Column="43" />
-      <File FileName="Assets/Scripts/Prop.cs" Line="7" Column="27" />
+      <File FileName="Assets/CamFollow.cs" Line="12" Column="6" />
+      <File FileName="Assets/GameManager.cs" Line="39" Column="6" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="77" Column="1" />
+      <File FileName="Assets/Scripts/Prop.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShooterRotator.cs" Line="29" Column="18" />
+      <File FileName="Assets/Scripts/SpawnGenerator.cs" Line="44" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,19 +14,11 @@
           <Node name="CubeBreaker" selected="True" />
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Unity" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5a4a0890-f16e-41fb-90ad-d735a35d5235" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da8bf5bf-e85a-4562-99a4-8df507482142" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

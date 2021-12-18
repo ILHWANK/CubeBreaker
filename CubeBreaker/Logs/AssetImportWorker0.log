@@ -22,100 +22,100 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58227
+49655
 Successfully changed project path to: /Users/gim-ilhwan/Documents/Unity/CubeBreaker/CubeBreaker
 /Users/gim-ilhwan/Documents/Unity/CubeBreaker/CubeBreaker
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 39.15 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 46.40 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.22f1 (e1a7f79fd887)
 [Subsystems] Discovering subsystems at path /Users/gim-ilhwan/Desktop/Unity/2020.3.22f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/gim-ilhwan/Documents/Unity/CubeBreaker/CubeBreaker/Assets
 GfxDevice: creating device client; threaded=0
-2021-11-11 22:35:17.161 Unity[32011:5314539] (null) preferred device: Apple M1 (high power)
-2021-11-11 22:35:17.161 Unity[32011:5314539] Metal devices available: 1
-2021-11-11 22:35:17.161 Unity[32011:5314539] 0: Apple M1 (high power)
-2021-11-11 22:35:17.161 Unity[32011:5314539] Using device Apple M1 (high power)
+2021-12-11 16:51:07.621 Unity[1383:36073] (null) preferred device: Apple M1 (high power)
+2021-12-11 16:51:07.621 Unity[1383:36073] Metal devices available: 1
+2021-12-11 16:51:07.621 Unity[1383:36073] 0: Apple M1 (high power)
+2021-12-11 16:51:07.621 Unity[1383:36073] Using device Apple M1 (high power)
 Initializing Metal device caps: Apple M1
 Initialize mono
 Mono path[0] = '/Users/gim-ilhwan/Desktop/Unity/2020.3.22f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Users/gim-ilhwan/Desktop/Unity/2020.3.22f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Users/gim-ilhwan/Desktop/Unity/2020.3.22f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56011
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56383
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Users/gim-ilhwan/Desktop/Unity/2020.3.22f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001321 seconds.
+Registered in 0.001096 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 39.29 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 38.56 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.246 seconds
+- Completed reload, in  3.796 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3247ms)
-		BeginReloadAssembly (134ms)
+	ReloadAssembly (3796ms)
+		BeginReloadAssembly (106ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (3ms)
-		EndReloadAssembly (965ms)
-			LoadAssemblies (131ms)
+		EndReloadAssembly (1041ms)
+			LoadAssemblies (103ms)
 			RebuildTransferFunctionScriptingTraits (1ms)
-			SetupTypeCache (193ms)
+			SetupTypeCache (200ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (42ms)
-			SetupLoadedEditorAssemblies (481ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (535ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (10ms)
+				InitializePlatformSupportModulesInManaged (11ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (39ms)
-				BeforeProcessingInitializeOnLoad (76ms)
-				ProcessInitializeOnLoadAttributes (266ms)
-				ProcessInitializeOnLoadMethodAttributes (88ms)
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (302ms)
+				ProcessInitializeOnLoadMethodAttributes (99ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002962 seconds.
+Registered in 0.004253 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.173 seconds
+- Completed reload, in  2.209 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2175ms)
+	ReloadAssembly (2212ms)
 		BeginReloadAssembly (262ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (29ms)
+			DisableScriptedObjects (28ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1819ms)
-			LoadAssemblies (187ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (1852ms)
+			LoadAssemblies (180ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (357ms)
+			SetupTypeCache (360ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (1003ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (1028ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
+				InitializePlatformSupportModulesInManaged (15ms)
 				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (186ms)
-				ProcessInitializeOnLoadAttributes (761ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
+				ProcessInitializeOnLoadAttributes (780ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (27ms)
 Platform modules already initialized, skipping
-Validating Project structure ... 0.003476 seconds.
+Validating Project structure ... 0.008316 seconds.
 Shader import version has changed; will reimport all shaders...
-Upgrading shader files ...0.016053 seconds.
+Upgrading shader files ...0.016744 seconds.
 Application.AssetDatabase Initial Script Refresh Start
 RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
 RefreshProfiler: Total: 0.000ms
@@ -129,14 +129,14 @@ Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
 Initializing Unity extensions:
 ========================================================================
 Worker process is ready to serve import requests
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1754 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 265.2 MB.
-System memory in use after: 263.2 MB.
+System memory in use before: 265.5 MB.
+System memory in use after: 263.4 MB.
 
-Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 2225.
-Total: 2.876334 ms (FindLiveObjects: 0.117208 ms CreateObjectMapping: 0.034375 ms MarkObjects: 2.027250 ms  DeleteObjects: 0.696667 ms)
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 4.009333 ms (FindLiveObjects: 0.123125 ms CreateObjectMapping: 0.033000 ms MarkObjects: 3.165708 ms  DeleteObjects: 0.686625 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -150,112 +150,248 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/BigExplosion Variant.prefab
-  artifactKey: Guid(5b82b4e7cf19a4586855a25cfb43ef1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/BigExplosion Variant.prefab using Guid(5b82b4e7cf19a4586855a25cfb43ef1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbaf475faae3949662d324063d144ae2') in 2.267631 seconds 
-  Import took 2.273816 seconds .
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyExplosion.mat
+  artifactKey: Guid(bf88af72084132746823869f28b070f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyExplosion.mat using Guid(bf88af72084132746823869f28b070f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110e5b43902956821d100de70ba0ef16') in 1.003887 seconds 
+  Import took 1.007493 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002396 seconds.
-  path: Assets/Prefabs/EnergyExplosion Variant.prefab
-  artifactKey: Guid(d953f6fff9bcf4b76818f3c3c463ba0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/EnergyExplosion Variant.prefab using Guid(d953f6fff9bcf4b76818f3c3c463ba0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5dd869eb610985d208ea20d64ea7c6') in 0.627572 seconds 
-  Import took 0.636468 seconds .
+  Time since last request: 42.340560 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyShockwave.mat
+  artifactKey: Guid(65586f2fde3974c4e9469dfe6cf89338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/EnergyShockwave.mat using Guid(65586f2fde3974c4e9469dfe6cf89338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcec757e991a9548be9c5b5bb127258a') in 0.033129 seconds 
+  Import took 0.037046 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Prefabs/PlasmaExplosionEffect Variant.prefab
-  artifactKey: Guid(a49476c5864ff4502926e754c4d90d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/PlasmaExplosionEffect Variant.prefab using Guid(a49476c5864ff4502926e754c4d90d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a06f4f1652c370b90c03b39a43908c6') in 0.367513 seconds 
-  Import took 0.371463 seconds .
+  Time since last request: 1.224061 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/Lightning.mat
+  artifactKey: Guid(0b1b6a2d22d96564f9037ae143ea84cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/Lightning.mat using Guid(0b1b6a2d22d96564f9037ae143ea84cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c519a7616ac9a3893a7986c86fc606e') in 0.020338 seconds 
+  Import took 0.023680 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000379 seconds.
-  path: Assets/Prefabs/Ball.prefab
-  artifactKey: Guid(212927242ad24481e9e43fa0d95aeb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ball.prefab using Guid(212927242ad24481e9e43fa0d95aeb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc04f45af0331900cb1c32a2406ff31') in 0.267332 seconds 
-  Import took 0.271124 seconds .
+  Time since last request: 1.203159 seconds.
+  path: Assets/EffectExamples/Fire & Explosion Effects/Materials/Embers.mat
+  artifactKey: Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EffectExamples/Fire & Explosion Effects/Materials/Embers.mat using Guid(776677ab3818fb249adaca05f4e04545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5610098b1de7c0bf2660c4e34a255a71') in 0.019375 seconds 
+  Import took 0.022400 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/Prefabs/Ball Origin.prefab
-  artifactKey: Guid(ecb1e18e11653474496dfdda4f2fcd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ball Origin.prefab using Guid(ecb1e18e11653474496dfdda4f2fcd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3f8bd3b1654ea579d31afcf50beff0') in 0.021617 seconds 
-  Import took 0.024434 seconds .
+  Time since last request: 60.850051 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Climb_Rope_Loop_00.mp3
+  artifactKey: Guid(1c24b92110c3d404a8d9a6fdbd275772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Climb_Rope_Loop_00.mp3 using Guid(1c24b92110c3d404a8d9a6fdbd275772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb0055c8df25f514a23580a526812cf1') in 0.783092 seconds 
+  Import took 0.796293 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000382 seconds.
-  path: Assets/Prefabs/Big Prop.prefab
-  artifactKey: Guid(f93b0d71c611c446dbf2dca6fc5a6605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Big Prop.prefab using Guid(f93b0d71c611c446dbf2dca6fc5a6605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f6eabcb60e2f789dd077dd98544f0af') in 0.016998 seconds 
-  Import took 0.019710 seconds .
+  Time since last request: 0.003770 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Explosion_01.mp3
+  artifactKey: Guid(b47b48a76950e41edbf228b853955b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Explosion_01.mp3 using Guid(b47b48a76950e41edbf228b853955b07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7144b4813db934341584b2ab7e4f70') in 0.008851 seconds 
+  Import took 0.012208 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000361 seconds.
-  path: Assets/Prefabs/SmallExplosion Variant.prefab
-  artifactKey: Guid(356b103722b2f405eae7b7fb9f45f33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/SmallExplosion Variant.prefab using Guid(356b103722b2f405eae7b7fb9f45f33c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f318b2f43757d167e26aeef1c0d6947') in 0.103125 seconds 
-  Import took 0.106198 seconds .
+  Time since last request: 0.000261 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Craft_00.mp3
+  artifactKey: Guid(3b9ec8e362eec47378dc741fd78a9555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Craft_00.mp3 using Guid(3b9ec8e362eec47378dc741fd78a9555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c2a15bfc4fb5ead0eb13cc51668186') in 0.015854 seconds 
+  Import took 0.018474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Hit_00.mp3
+  artifactKey: Guid(e2a915bbc58734650bd17de4e87a001c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Hit_00.mp3 using Guid(e2a915bbc58734650bd17de4e87a001c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a5ad75cff412f3ad04b20d69222b1e4') in 0.010466 seconds 
+  Import took 0.013029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Hero_Death_00.mp3
+  artifactKey: Guid(4668d9fcf8d264f3693f23878a14042b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Hero_Death_00.mp3 using Guid(4668d9fcf8d264f3693f23878a14042b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39c9cd6932df56cafb305c7f211f38c2') in 0.006779 seconds 
+  Import took 0.009047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Jingle_Win_00.mp3
+  artifactKey: Guid(524fb3698f9864ea4a953e57aefc11ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Jingle_Win_00.mp3 using Guid(524fb3698f9864ea4a953e57aefc11ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '997bd75e00c6ca2f8d2f54a0f321840d') in 0.014634 seconds 
+  Import took 0.017050 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000278 seconds.
-  path: Assets/Prefabs/Small Prop.prefab
-  artifactKey: Guid(b92eaf34227074803842d86eed92672e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Small Prop.prefab using Guid(b92eaf34227074803842d86eed92672e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5401e0ad1b4cd41f8a1f74ce297d93d7') in 0.010120 seconds 
-  Import took 0.012681 seconds .
+  path: Assets/8-Bit Sfx/Mp3/Explosion_02.mp3
+  artifactKey: Guid(9ab7ac9f6e729457d8a8dfa89151ee30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Explosion_02.mp3 using Guid(9ab7ac9f6e729457d8a8dfa89151ee30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6cd179ea02bb57b32b6229b3682b6f2') in 0.006196 seconds 
+  Import took 0.008448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Explosion_04.mp3
+  artifactKey: Guid(4aa05c7ef779a4524b634cd0e1ca505f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Explosion_04.mp3 using Guid(4aa05c7ef779a4524b634cd0e1ca505f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add63cf099052146d42897d74da032a6') in 0.012636 seconds 
+  Import took 0.015286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Collect_Point_00.mp3
+  artifactKey: Guid(f571fd369d8d143ff85ba68229363559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Collect_Point_00.mp3 using Guid(f571fd369d8d143ff85ba68229363559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e097d9d3472f544d22fd62d9db3b92e') in 0.006406 seconds 
+  Import took 0.008755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Collect_Point_01.mp3
+  artifactKey: Guid(9fe330231cc2d4a01aa086aba00b09fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Collect_Point_01.mp3 using Guid(9fe330231cc2d4a01aa086aba00b09fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e8342f73b3be43f0c67e9d9f3fdb1c') in 0.016019 seconds 
+  Import took 0.018793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Explosion_03.mp3
+  artifactKey: Guid(6e0f953c84c654df598106bc1cfa2275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Explosion_03.mp3 using Guid(6e0f953c84c654df598106bc1cfa2275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16232cd1f9c04b359d2b6f593e8868c1') in 0.006247 seconds 
+  Import took 0.008762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Jingle_Achievement_00.mp3
+  artifactKey: Guid(0a9177415caff4fc8ace0cae0ae19b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Jingle_Achievement_00.mp3 using Guid(0a9177415caff4fc8ace0cae0ae19b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f1b9011d206c6d5ac07616b4f1f7ac') in 0.006446 seconds 
+  Import took 0.008902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Jingle_Lose_00.mp3
+  artifactKey: Guid(adcbbbae313cb40978e30faf82938987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Jingle_Lose_00.mp3 using Guid(adcbbbae313cb40978e30faf82938987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d80aa32865d8da12076a914f7afe5b') in 0.009094 seconds 
+  Import took 0.011547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Jingle_Win_01.mp3
+  artifactKey: Guid(f64ba5053783b4e9f8b8efaeac8daf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Jingle_Win_01.mp3 using Guid(f64ba5053783b4e9f8b8efaeac8daf63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca73809782bf5b1adf84edcd1d3b202') in 0.006443 seconds 
+  Import took 0.008652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Collect_Point_02.mp3
+  artifactKey: Guid(0e566fddd2b7f4a3b9a3fc65ced50eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Collect_Point_02.mp3 using Guid(0e566fddd2b7f4a3b9a3fc65ced50eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae9ad89889c226f9bf1669a2acabe16') in 0.008756 seconds 
+  Import took 0.011456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Hit_02.mp3
+  artifactKey: Guid(2876e7fa4419a4a7096b8bb38641daa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Hit_02.mp3 using Guid(2876e7fa4419a4a7096b8bb38641daa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3582c8b1b3e68fa03a49a8e41afd61b') in 0.006279 seconds 
+  Import took 0.008443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Explosion_00.mp3
+  artifactKey: Guid(066d4f15549a6480eaea224b69a1c85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Explosion_00.mp3 using Guid(066d4f15549a6480eaea224b69a1c85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9caeac35353bb06332d0fac53203bbf0') in 0.007699 seconds 
+  Import took 0.010056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Hit_01.mp3
+  artifactKey: Guid(34b722ffc09ef4831a89b6502cd42f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Hit_01.mp3 using Guid(34b722ffc09ef4831a89b6502cd42f7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b83d6c6bfa9bc0516eddc17f81f6b00') in 0.007846 seconds 
+  Import took 0.009960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Hit_03.mp3
+  artifactKey: Guid(58ccec2859d7544f5880b3202cc15dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Hit_03.mp3 using Guid(58ccec2859d7544f5880b3202cc15dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e07f6cd2aa1d5c708eb0b68248128d') in 0.006175 seconds 
+  Import took 0.008249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Jingle_Lose_01.mp3
+  artifactKey: Guid(689a3f3f81d7a46b68b17c917a86bdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Jingle_Lose_01.mp3 using Guid(689a3f3f81d7a46b68b17c917a86bdc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5278f75ca0f2a796f73fc3ccbb718e0f') in 0.010190 seconds 
+  Import took 0.012344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/8-Bit Sfx/Mp3/Jingle_Achievement_01.mp3
+  artifactKey: Guid(bf7c660e4b34144d1a60a5063a3b1f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/8-Bit Sfx/Mp3/Jingle_Achievement_01.mp3 using Guid(bf7c660e4b34144d1a60a5063a3b1f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0e887039451ffb3fd269665dc1cb96') in 0.006299 seconds 
+  Import took 0.008343 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003708 seconds.
+Registered in 0.007221 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.186 seconds
+- Completed reload, in  2.522 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2188ms)
-		BeginReloadAssembly (228ms)
+	ReloadAssembly (2525ms)
+		BeginReloadAssembly (254ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (31ms)
+			DisableScriptedObjects (42ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (95ms)
-		EndReloadAssembly (1865ms)
-			LoadAssemblies (166ms)
+			CreateAndSetChildDomain (105ms)
+		EndReloadAssembly (2152ms)
+			LoadAssemblies (212ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (353ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (987ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (1189ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (14ms)
-				SetLoadedEditorAssemblies (1ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (2ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (223ms)
-				ProcessInitializeOnLoadAttributes (709ms)
-				ProcessInitializeOnLoadMethodAttributes (38ms)
+				BeforeProcessingInitializeOnLoad (230ms)
+				ProcessInitializeOnLoadAttributes (895ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
 				AfterProcessingInitializeOnLoad (1ms)
-				EditorAssembliesLoaded (1ms)
+				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (28ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1694 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 262.3 MB.
-System memory in use after: 262.4 MB.
+System memory in use before: 267.0 MB.
+System memory in use after: 267.1 MB.
 
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2248.
-Total: 2.185125 ms (FindLiveObjects: 0.111584 ms CreateObjectMapping: 0.032583 ms MarkObjects: 1.997791 ms  DeleteObjects: 0.042167 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2282.
+Total: 2.672292 ms (FindLiveObjects: 0.154792 ms CreateObjectMapping: 0.037917 ms MarkObjects: 2.438125 ms  DeleteObjects: 0.040583 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
