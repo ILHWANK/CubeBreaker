@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7D7E9693-3554-CDB7-F023-AEE40A34B392}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Desktop/DesignPattern/Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/CommandPattern.cs" Line="23" Column="56" />
+      <File FileName="Assets/GameManager.cs" Line="28" Column="18" />
+      <File FileName="../../../../Desktop/DesignPattern/Assets/GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7582a2fe-10b2-4406-acd3-781ecb1ecce3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
